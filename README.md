@@ -74,7 +74,7 @@ The parameter `σ` (note that you can also spell out `sigma` if you prefer) can 
 
 You can run the tests (requires `pytest` and `pytest-cov`) with
 
-    python run_tests.py
+    pytest
 
 
 ## Building
